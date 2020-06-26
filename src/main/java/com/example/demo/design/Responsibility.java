@@ -1,7 +1,7 @@
 package com.example.demo.design;
 
 /**
- * Responsibility
+ * Responsibility 责任链模式
  *
  * @author zhbin
  * @date 2020-06-03

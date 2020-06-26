@@ -5,7 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * Memorandum
+ * Memorandum 备忘录模式
  *
  * @author zhbin
  * @date 2020-06-03

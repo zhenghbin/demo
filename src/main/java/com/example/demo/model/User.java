@@ -15,4 +15,6 @@ public class User {
 
     @NotNull(message = "年龄不能为空")
     private Integer age;
+
+    private People people;
 }
