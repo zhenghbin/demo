@@ -1,6 +1,6 @@
 package com.example.demo.concurrent;
 
-import com.rabbitmq.client.UnblockedCallback;
+//import com.rabbitmq.client.UnblockedCallback;
 
 public class ThreadLocalTest {
     public static void main(String[]args) {
